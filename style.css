@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(#6370bb 40%, #6fa8dc 60%);
+    color: black;
+}
+.heading{
+    font-size: 50px;
+    width: 80%;
+    background-color: aqua;
+}
+#camera{
+    border: 2.5px;
+    border-style: solid;
+    width: 400px;
+    height: 400px;
+}
